@@ -49,6 +49,7 @@ L’objectif du projet est d’implémenter, tester et améliorer la méthode de
 
 **Sonokoli**  
 Étudiant en 3e année à l’ENSAI – Spécialisation Data Science et génie statistiques
+
 Projet réalisé sous la supervision de Julien Pelamatti, research engineer chez EDF 
 ---
 
