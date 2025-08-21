@@ -62,7 +62,6 @@ Ce type de solution peut s’appliquer à de nombreux cas d’usage à forte val
 - **Python 3.10**
 - NumPy, Pandas, Scikit-learn
 - Matplotlib, Seaborn (visualisation)
-- Joblib / Multiprocessing (parallélisation)
 
 ---
 
@@ -87,7 +86,6 @@ Supervision : *Julien Pelamatti, Research Engineer*
 ## 📬 Contact
 
 📧 sorobamara7@gmail.com  
-📄 Rapport disponible sur demande  
-🔗 [Ajoute ici ton LinkedIn ou GitHub si tu veux le partager]
+📄 Rapport disponible sur demande 
 
 ---
